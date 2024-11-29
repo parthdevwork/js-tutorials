@@ -39,3 +39,14 @@ let stringConvrt = Number(null)
 
 console.log(typeof stringConvrt);
 console.log(stringConvrt)
+
+// now see boolean value convert the another datatypes
+
+
+let converter = true
+let stringtobolean = Number(converter)
+console.log(typeof stringtobolean)
+console.log( stringtobolean)
+
+
+/// you can convert the boolean value in string then true =  string  , false = string and you convert the boolean in number then  true = 1 and false = 0
