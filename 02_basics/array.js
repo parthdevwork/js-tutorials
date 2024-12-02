@@ -30,3 +30,9 @@ myArry.shift()
 myArry.shift()
 
 console.log(myArry);
+
+
+
+// indexof :- means this are same search function like work , this find whixh value can exits in this array
+
+console.log(myArry.indexOf(2));
